@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+
 from map import rooms
 import string
 
